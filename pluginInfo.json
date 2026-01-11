@@ -1,0 +1,15 @@
+{
+  "name": "FPP WLED Mega Control",
+  "version": "1.0.0",
+  "minFPPVersion": "9.0",
+  "maxFPPVersion": "0",
+  "author": "Tech Turtle",
+  "script": "",
+  "phpVersion": "7.4",
+  "pages": [
+    "models.php",
+    "effects.php",
+    "presets.php",
+    "schedule.php"
+  ]
+}
